@@ -3,18 +3,18 @@
 This repository contains code and examples for the Data Analytics Lab, covering various topics related to data analysis, data visualization, statistical analysis, and more. Each section focuses on a specific topic and includes code examples, explanations, and exercises to help you learn and apply the concepts effectively.
 
 ## Table of Contents
-1. File I/O
-2. NumPy Basics
-3. Pandas: Importing and Data Preparation
-4. Pandas: Data Filtering and Sorting
-5. Matplotlib: Simple Interactive Charts
-6. Matplotlib: Subplots, Multiple Figures, and Customizations
-7. Seaborn: Visualizing Statistical Relationships
-8. Seaborn: Plotting with Categorical Data and Linear Relationships
-9. Data Pre-processing Methods
-10. Data Cleaning and Handling Missing Values
-11. Exploratory Analysis: Clustering Techniques
-12. Basic Statistical Analysis
+1. [File I/O](#file-io)
+2. [NumPy Basics](#numpy-basics)
+3. [Pandas: Importing and Data Preparation](#pandas-importing-and-data-preparation)
+4. [Pandas: Data Filtering and Sorting](#pandas-data-filtering-and-sorting)
+5. [Matplotlib: Simple Interactive Charts](#matplotlib-simple-interactive-charts)
+6. [Matplotlib: Subplots, Multiple Figures, and Customizations](#matplotlib-subplots-multiple-figures-and-customizations)
+7. [Seaborn: Visualizing Statistical Relationships](#seaborn-visualizing-statistical-relationships)
+8. [Seaborn: Plotting with Categorical Data and Linear Relationships](#seaborn-plotting-with-categorical-data-and-linear-relationships)
+9. [Data Pre-processing Methods](#data-pre-processing-methods)
+10. [Data Cleaning and Handling Missing Values](#data-cleaning-and-handling-missing-values)
+11. [Exploratory Analysis: Clustering Techniques](#exploratory-analysis-clustering-techniques)
+12. [Basic Statistical Analysis](#basic-statistical-analysis)
 
 ### 1. File I/O
 
