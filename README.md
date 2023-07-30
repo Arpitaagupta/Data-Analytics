@@ -1,55 +1,73 @@
-# Data Analytics Lab - Basics of NumPy
+# Data Analytics Lab
 
-This repository contains code and examples to help you understand the basics of NumPy, a fundamental library for numerical computing in Python. NumPy provides support for large, multi-dimensional arrays and matrices, along with an extensive collection of high-level mathematical functions to operate on these arrays.
+This repository contains code and examples for the Data Analytics Lab, covering various topics related to data analysis, data visualization, statistical analysis, and more. Each section focuses on a specific topic and includes code examples, explanations, and exercises to help you learn and apply the concepts effectively.
 
 ## Table of Contents
-1. Introduction to NumPy
-2. Array Creation
-3. Basic Operations
-4. Indexing and Slicing
-5. Shape Manipulation
-6. Stacking and Splitting
+1. File I/O
+2. NumPy Basics
+3. Pandas: Importing and Data Preparation
+4. Pandas: Data Filtering and Sorting
+5. Matplotlib: Simple Interactive Charts
+6. Matplotlib: Subplots, Multiple Figures, and Customizations
+7. Seaborn: Visualizing Statistical Relationships
+8. Seaborn: Plotting with Categorical Data and Linear Relationships
+9. Data Pre-processing Methods
+10. Data Cleaning and Handling Missing Values
+11. Exploratory Analysis: Clustering Techniques
+12. Basic Statistical Analysis
 
-### 1. Introduction to NumPy
+### 1. File I/O
 
-NumPy is a powerful library for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, and an assortment of functions to operate on these arrays efficiently. In this section, you'll learn about the basic concepts of NumPy and its advantages over standard Python lists.
+In this section, you'll learn how to work with files in Python, including opening, closing, reading, writing, seeking, and handling exceptions.
 
-### 2. Array Creation
+### 2. NumPy Basics
 
-In this section, you'll explore various ways to create NumPy arrays. We'll cover different functions for creating arrays from scratch, generating arrays with evenly spaced values, and more. Understanding how to create arrays is the foundation for working with NumPy.
+NumPy is a fundamental library for numerical computing in Python. In this section, you'll learn about array creation, basic operations, indexing, slicing, shape manipulation, stacking, and splitting of arrays using NumPy.
 
-### 3. Basic Operations
+### 3. Pandas: Importing and Data Preparation
 
-NumPy offers a wide range of mathematical operations on arrays. In this section, you'll learn how to perform basic arithmetic operations, element-wise operations, and broadcasting. These operations are essential for any data manipulation and analysis using NumPy.
+Pandas is a powerful library for data manipulation and analysis. In this section, you'll learn how to import data from various formats (CSV, Excel, text, etc.) using pandas data frames and prepare the data for analysis.
 
-### 4. Indexing and Slicing
+### 4. Pandas: Data Filtering and Sorting
 
-Indexing and slicing allow you to access specific elements or subsets of an array. In this section, you'll learn different techniques to access and modify array elements using various indexing methods, including boolean indexing and fancy indexing.
+Continuing with Pandas, you'll explore data filtering and sorting techniques to extract valuable information from the data.
 
-### 5. Shape Manipulation
+### 5. Matplotlib: Simple Interactive Charts
 
-NumPy provides functions to change the shape of arrays, such as reshaping, flattening, and transposing. Understanding how to manipulate the shape of arrays is essential for data preprocessing and transforming data for further analysis.
+Matplotlib is a popular library for data visualization in Python. In this section, you'll understand how to create simple interactive charts, including line charts, histograms, bar charts, and pie charts.
 
-### 6. Stacking and Splitting
+### 6. Matplotlib: Subplots, Multiple Figures, and Customizations
 
-In this section, you'll learn how to combine multiple arrays to create larger arrays (stacking) and split arrays into smaller parts. These techniques are useful when you need to merge data from different sources or divide data for parallel processing.
+Building on the previous section, you'll learn how to work with subplots, multiple figures, and customize your charts with text, grids, and legends. Additionally, you'll learn how to save the charts for later use.
 
-Each section in the repository will contain code examples, explanations, and exercises to solidify your understanding of the topics covered. Feel free to explore the code and experiment with the examples provided.
+### 7. Seaborn: Visualizing Statistical Relationships
 
-Happy coding!
+Seaborn is a powerful library for statistical data visualization. In this section, you'll explore various techniques to visualize statistical relationships between data points.
 
-## Additional Labs
+### 8. Seaborn: Plotting with Categorical Data and Linear Relationships
 
-If you find this repository helpful, don't forget to check out the following labs that will be covered later in the course:
+Continuing with Seaborn, you'll learn how to plot categorical data and visualize linear relationships effectively.
 
-- File I/O: Learn how to handle file input and output operations, including reading, writing, and exception handling.
-- Pandas: Explore the powerful Pandas library for data manipulation and analysis, including data frame creation, filtering, and sorting.
-- Matplotlib: Understand data visualization with Matplotlib, covering various chart types and customizations.
-- Seaborn: Dive into Seaborn for statistical data visualization and linear relationship exploration.
-- Data Pre-processing: Learn various data pre-processing techniques to clean and transform data for analysis.
-- Statistical Analysis: Perform basic statistical analysis, including probability, distributions, and hypothesis testing.
-- Linear Algebra with NumPy: Implement matrix operations and solve linear equations using NumPy.
-- Exploratory Data Analysis: Develop clustering techniques and assess clusters for a given dataset.
-- SymPy: Solve systems of equations using the SymPy package.
+### 9. Data Pre-processing Methods
 
-**Note:** As you progress in the course, this README will be updated with more sections and information to guide you through the topics covered in the Data Analytics Lab. Happy learning and coding!
+Data pre-processing is a critical step in data analysis. In this section, you'll learn different data pre-processing techniques to clean and transform data for further analysis.
+
+### 10. Data Cleaning and Handling Missing Values
+
+Missing data is a common issue in datasets. You'll learn various techniques to handle missing values, including cleaning, filling, dropping, and replacing missing data.
+
+### 11. Exploratory Analysis: Clustering Techniques
+
+In this section, you'll develop k-means and MST-based clustering techniques and learn how to assess clusters for a given dataset.
+
+### 12. Basic Statistical Analysis
+
+Statistical analysis is fundamental in data science. You'll perform basic statistical analysis by calculating measures like mean, median, mode, standard deviation, and explore probability and sampling distributions.
+
+**Note:** The topics listed above represent the content planned for the Data Analytics Lab. The README will be updated as the course progresses, providing more detailed information and resources for each section.
+
+<hr>
+<p align="center">
+Happy learning and coding!🚀
+</p>
+</hr>
