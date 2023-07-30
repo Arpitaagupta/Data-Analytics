@@ -1,0 +1,10 @@
+import numpy as np
+arr4 = np.array([[[9,2,6],[1,8,3],[4,6,3]]])
+print("Array :")
+print(arr4)
+print("-------------------------------------------------------------")
+print("Row wise Sorting of Array")
+print(np.sort(arr4))
+print("-------------------------------------------------------------")
+print("Column wise sorting of Array")
+print(np.sort(arr4, axis=1))
